@@ -1,2 +1,2 @@
 # Learning_Git
-Repo for me to dick around in and learning Git
+Repo for me to mess around in and learning Git
